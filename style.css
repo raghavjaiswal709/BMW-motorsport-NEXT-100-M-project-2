@@ -816,6 +816,19 @@ header{
             box-shadow: 0 15px 50px rgba(0,0,0,0.90);
         overflow: hidden;
         transition: 0.2s;
+     background:linear-gradient(135deg, rgba(229, 229, 229,0.8), rgba(229,229,229,0.8));
+
+        backdrop-filter: blur(10px);
+
+        -webkit-backdrop-filter: blur(10px);
+
+        border: 1px solid rgba(255, 255, 255, 0.18);
+
+        border-radius: 20px;
+
+        box-shadow: 0 35px 80px rgba(0,0,0,0.15);
+
+        transition: 0.5s;
 }
 
 #gridimg{
